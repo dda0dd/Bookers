@@ -20,6 +20,17 @@
   box-sizing: border-box;
 }
 
+label {
+  display: block;
+}
+
+div.field {
+  margin-bottom: 10px;
+}
+
+div.actions {
+  margin-bottom: 10px;
+}
 /*header, h1, nav, .book-comment {*/
 /*  font-family: 'Kaushan', cursive, sans-serif;*/
 /*}*/
